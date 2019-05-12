@@ -1,1 +1,1 @@
-confirm("Press a button!");
+alert("Press a button!");
