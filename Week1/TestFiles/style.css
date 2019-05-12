@@ -1,0 +1,80 @@
+h1 {
+  color: red;
+  text-align: center
+}
+
+p {
+}
+
+body {
+  height: 60vh;
+  width: 100vw;
+}
+
+a:hover {
+  color: black;
+  font-weight: bolder;
+  background-color: white;
+}
+
+div {
+  padding: 15px;
+}
+
+marquee {
+  color: red;
+  font-weight: bold;
+}
+input {
+    border: 2px dimgray;
+  border-radius: 4px;
+  font-style: italic
+  }
+  
+  .hobbylist {
+
+  font-style: italic;
+  }
+
+  #reading {
+    color: rebeccapurple 
+
+  }
+
+  #hiking {
+    color: purple
+
+  }
+
+  #movies {
+color: mediumslateblue
+
+  }
+
+  /* Style the container */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/* Floating column for labels: 25% width */
+.col-25 {
+  float: left;
+  width: 15%;
+  margin-top: 6px;
+}
+
+/* Floating column for inputs: 75% width */
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

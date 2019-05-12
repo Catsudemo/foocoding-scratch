@@ -1,0 +1,29 @@
+#grid-floats {
+display:block;
+float: center;
+
+}
+
+#grid-floats:grid-item {
+
+clear: both;
+content: "";
+display: block;
+}
+
+#grid-flex {
+clear: both;
+content: "";
+display: block;
+}
+
+#grid-flex:grid-item {
+
+
+}
+
+@media only screen and (min-width: 800px) {
+
+
+@media only screen and (min-width: 600px) {
+    
