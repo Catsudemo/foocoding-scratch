@@ -1,0 +1,31 @@
+body {
+    background-color:pink;
+}
+.container {
+width: 100%;
+display:grid;
+background
+}
+
+#sidebar {
+
+}
+
+#headerbar {
+    position: fixed;
+    float: right;
+    top: 4px;
+    background-color: blue;
+    color=white;
+
+
+
+}
+
+#aside {
+
+}
+
+#comment {
+
+}
